@@ -4,7 +4,7 @@ MediaAI is a fully AI-based Media Software that enables you to edit your videos,
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Latest Release](https://img.shields.io/badge/release-v0.0-blue)](https://github.com/saad-naseer/MediaAI/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/saad-naseer/MediaAI.svg)](https://github.com/saad-naseer/MediaAI/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/saad-naseer/MediaAI/total.svg)](https://github.com/saad-naseer/MediaAI/releases/latest)
 
 
